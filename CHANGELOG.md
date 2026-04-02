@@ -16,6 +16,7 @@ and this project adheres to
 ### Fixed
 
 - 🐛(summary) fix failure webhook notification #1233
+- 🐛(summary) relaxed whisperX payload format #1233
 
 ## [1.13.0] - 2026-03-31
 
